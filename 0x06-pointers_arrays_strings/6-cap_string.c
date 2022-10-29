@@ -1,6 +1,6 @@
 #include "main.h"
 
-[2;2R[>77;30601;0c]10;rgb:bfbf/bfbf/bfbf]11;rgb:0000/0000/0000/**
+/**
  * cap_string - capitalizes everey word of a string
  * @s: string to modify
  *
